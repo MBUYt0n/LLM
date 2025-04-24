@@ -1,1 +1,5 @@
 Airbnb Data/*
+*.csv
+*/lightning_logs/*
+*/checkpoints/*
+*.pth
